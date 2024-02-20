@@ -30,10 +30,6 @@ The generatePassword function orchestrates the password generation process, incl
 The UserInput function updates the webpage with the generated password.<br>
 
 ✨Usage<br>
-
-https://github.com/Codeliki/Generate-a-Random-Password/assets/159378076/76d13ded-518a-4f97-b127-0172541b6407
-
-
 To use this script, simply include it in your webpage's <script> tag or as an external JavaScript file.<br>
 Ensure the HTML elements for the password display and generate button are correctly set up as described above.<br>
 
